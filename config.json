@@ -1,0 +1,6 @@
+{
+  "host": "192.168.***.***",
+  "database": "****",
+  "username": "postgres",
+  "password": "*****"
+}
